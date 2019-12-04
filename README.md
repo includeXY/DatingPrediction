@@ -9,3 +9,5 @@ datingClassTest是分类器针对约会网站的测试代码
 classifyPerson约会网站预测函数
 
 test.py是用来测试kNN.py中算法的正确性
+
+datingTestSet2.txt是训练数据集，里面的样本随机排列。
