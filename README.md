@@ -1,5 +1,5 @@
 # DatingPrediction
-Using kNN to predict wether a person suitable for dating，Python 3.7
+Using kNN to predict weather a person suitable for dating，Python 3.7
 
 kNN.py内的函数描述：
 
