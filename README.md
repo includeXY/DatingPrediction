@@ -1,5 +1,5 @@
 # DatingPrediction
-Using kNN to predict wether a person suitable for dating
+Using kNN to predict wether a person suitable for dating，Python 3.7
 
 kNN.py内的函数描述：
 classify0函数的功能是使用k-近邻算法将每组数据划分到某个类中
